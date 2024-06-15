@@ -32,32 +32,31 @@
 
  C++ | Java | JavaScript | Python | PHP |
 |----------|----------|----------|----------|----------|
-| [<img src="https://skillicons.dev/api/v1/icons/view/python" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://skillicons.dev/api/v1/icons/view/java" alt="java" width="40" height="40"/>](https://www.java.com) | [<img src="https://skillicons.dev/api/v1/icons/view/javascript" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://skillicons.dev/api/v1/icons/view/django" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/php" alt="php" width="40" height="40"/>](https://www.php.net/) |
+| [![C++](https://skillicons.dev/api/v1/icons/view/cplusplus)](https://www.w3schools.com/cpp/) | [![Java](https://skillicons.dev/api/v1/icons/view/java)](https://www.java.com) | [![JavaScript](https://skillicons.dev/api/v1/icons/view/javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Python](https://skillicons.dev/api/v1/icons/view/python)](https://www.python.org) | [![PHP](https://skillicons.dev/api/v1/icons/view/php)](https://www.php.net/) |
 
 ### Front-end Frameworks
 
 | Angular | Bootstrap | CSS3 | HTML5 | React | React Native | Tailwind CSS |
 |----------|----------|----------|----------|----------|----------|----------|
-| [<img src="https://skillicons.dev/api/v1/icons/view/angular" alt="angular" width="40" height="40"/>](https://angular.io) | [<img src="https://skillicons.dev/api/v1/icons/view/bootstrap" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) | [<img src="https://skillicons.dev/api/v1/icons/view/css3" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) | [<img src="https://skillicons.dev/api/v1/icons/view/html" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) | [<img src="https://skillicons.dev/api/v1/icons/view/react" alt="react" width="40" height="40"/>](https://reactjs.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/react" alt="reactnative" width="40" height="40"/>](https://reactnative.dev/) | [<img src="https://skillicons.dev/api/v1/icons/view/tailwind" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |
+| [![Angular](https://skillicons.dev/api/v1/icons/view/angular)](https://angular.io) | [![Bootstrap](https://skillicons.dev/api/v1/icons/view/bootstrap)](https://getbootstrap.com) | [![CSS3](https://skillicons.dev/api/v1/icons/view/css3)](https://www.w3schools.com/css/) | [![HTML5](https://skillicons.dev/api/v1/icons/view/html)](https://www.w3.org/html/) | [![React](https://skillicons.dev/api/v1/icons/view/react)](https://reactjs.org/) | [![React Native](https://skillicons.dev/api/v1/icons/view/react)](https://reactnative.dev/) | [![Tailwind CSS](https://skillicons.dev/api/v1/icons/view/tailwind)](https://tailwindcss.com/) |
 
 ### Back-end Frameworks
 
-| Express | Node.js | Flask |
-|----------|----------|----------|
-| [<img src="https://skillicons.dev/api/v1/icons/view/express" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://skillicons.dev/api/v1/icons/view/nodejs" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://skillicons.dev/api/v1/icons/view/flask" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) |
+| Express | Node.js | Django | Flask |
+|----------|----------|----------|----------|
+| [![Express](https://skillicons.dev/api/v1/icons/view/express)](https://expressjs.com) | [![Node.js](https://skillicons.dev/api/v1/icons/view/nodejs)](https://nodejs.org) | [![Django](https://skillicons.dev/api/v1/icons/view/django)](https://www.djangoproject.com/) | [![Flask](https://skillicons.dev/api/v1/icons/view/flask)](https://flask.palletsprojects.com/) |
 
 ### Databases and Data Manipulation
 
 | MySQL | Postgres | SQLite |
 |----------|----------|----------|
-| [<img src="https://skillicons.dev/api/v1/icons/view/mysql" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/postgres" alt="Postgres" width="40" height="40"/>](https://www.postgresql.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/sqlite" alt="SQLite" width="40" height="40"/>](https://www.sqlite.org/) |
+| [![MySQL](https://skillicons.dev/api/v1/icons/view/mysql)](https://www.mysql.com/) | [![Postgres](https://skillicons.dev/api/v1/icons/view/postgres)](https://www.postgresql.org/) | [![SQLite](https://skillicons.dev/api/v1/icons/view/sqlite)](https://www.sqlite.org/) |
 
 ### Developer Tools
 
 | Git | GitHub | VS Code | Docker | Linux | Nginx | Postman |
 |----------|----------|----------|----------|----------|----------|----------|
-| [<img src="https://skillicons.dev/api/v1/icons/view/git" alt="git" width="40" height="40"/>](https://git-scm.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/github" alt="github" width="40" height="40"/>](https://github.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/vscode" alt="vscode" width="40" height="40"/>](https://code.visualstudio.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/docker" alt="docker" width="40" height="40"/>](https://www.docker.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/linux" alt="linux" width="40" height="40"/>](https://www.linux.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/nginx" alt="nginx" width="40" height="40"/>](https://www.nginx.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/postman" alt="postman" width="40" height="40"/>](https://www.postman.com/) |
-
+| [![Git](https://skillicons.dev/api/v1/icons/view/git)](https://git-scm.com/) | [![GitHub](https://skillicons.dev/api/v1/icons/view/github)](https://github.com/) | [![VS Code](https://skillicons.dev/api/v1/icons/view/vscode)](https://code.visualstudio.com/) | [![Docker](https://skillicons.dev/api/v1/icons/view/docker)](https://www.docker.com/) | [![Linux](https://skillicons.dev/api/v1/icons/view/linux)](https://www.linux.org/) | [![Nginx](https://skillicons.dev/api/v1/icons/view/nginx)](https://www.nginx.com/) | [![Postman](https://skillicons.dev/api/v1/icons/view/postman)](https://www.postman.com/) |
 
 
 
