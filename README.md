@@ -24,7 +24,6 @@
 <a href="https://www.linkedin.com/in/abel-mekonn-pydev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/Abel.mekonn.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
-
 # My Developer Portfolio
 
 ## Languages and Tools
@@ -33,31 +32,31 @@
 
  C++ | Java | JavaScript | Python | PHP |
 |----------|----------|----------|----------|----------|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
+| [<img src="https://skillicons.dev/api/v1/icons/view/python" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://skillicons.dev/api/v1/icons/view/java" alt="java" width="40" height="40"/>](https://www.java.com) | [<img src="https://skillicons.dev/api/v1/icons/view/javascript" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://skillicons.dev/api/v1/icons/view/django" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/php" alt="php" width="40" height="40"/>](https://www.php.net/) |
 
 ### Front-end Frameworks
 
-| Angular | Bootstrap | CSS3 | HTML5 | React | React Native | Redux | jQuery | Tailwind CSS |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) | [<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>](https://reactnative.dev/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>](https://jquery.com/) | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |
+| Angular | Bootstrap | CSS3 | HTML5 | React | React Native | Tailwind CSS |
+|----------|----------|----------|----------|----------|----------|----------|
+| [<img src="https://skillicons.dev/api/v1/icons/view/angular" alt="angular" width="40" height="40"/>](https://angular.io) | [<img src="https://skillicons.dev/api/v1/icons/view/bootstrap" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) | [<img src="https://skillicons.dev/api/v1/icons/view/css3" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) | [<img src="https://skillicons.dev/api/v1/icons/view/html" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) | [<img src="https://skillicons.dev/api/v1/icons/view/react" alt="react" width="40" height="40"/>](https://reactjs.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/react" alt="reactnative" width="40" height="40"/>](https://reactnative.dev/) | [<img src="https://skillicons.dev/api/v1/icons/view/tailwind" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |
 
 ### Back-end Frameworks
 
-| Express | Next.js | Node.js | Django | Flask |
-|----------|----------|----------|----------|----------|
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>](https://www.djangoproject.com/) | [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) |
+| Express | Node.js | Flask |
+|----------|----------|----------|
+| [<img src="https://skillicons.dev/api/v1/icons/view/express" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://skillicons.dev/api/v1/icons/view/nodejs" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://skillicons.dev/api/v1/icons/view/flask" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) |
 
-### Databases and data manuplation
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+### Databases and Data Manipulation
+
+| MySQL | Postgres | SQLite |
+|----------|----------|----------|
+| [<img src="https://skillicons.dev/api/v1/icons/view/mysql" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/postgres" alt="Postgres" width="40" height="40"/>](https://www.postgresql.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/sqlite" alt="SQLite" width="40" height="40"/>](https://www.sqlite.org/) |
 
 ### Developer Tools
 
-| Git | Figma | Google Cloud | GraphQL | Adobe Illustrator | Postman | TensorFlow | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/) | [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com) | [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org) | [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) | [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org) | [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>](https://opencv.org/) |
-
+| Git | GitHub | VS Code | Docker | Linux | Nginx | Postman |
+|----------|----------|----------|----------|----------|----------|----------|
+| [<img src="https://skillicons.dev/api/v1/icons/view/git" alt="git" width="40" height="40"/>](https://git-scm.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/github" alt="github" width="40" height="40"/>](https://github.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/vscode" alt="vscode" width="40" height="40"/>](https://code.visualstudio.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/docker" alt="docker" width="40" height="40"/>](https://www.docker.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/linux" alt="linux" width="40" height="40"/>](https://www.linux.org/) | [<img src="https://skillicons.dev/api/v1/icons/view/nginx" alt="nginx" width="40" height="40"/>](https://www.nginx.com/) | [<img src="https://skillicons.dev/api/v1/icons/view/postman" alt="postman" width="40" height="40"/>](https://www.postman.com/) |
 
 
 
