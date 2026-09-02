@@ -1,165 +1,203 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Abel%20Mekonn&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20%7C%20SaaS%20Builder%20%7C%20AI%20Integration%20Specialist&descAlignY=55&descSize=18" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+SaaS+%F0%9F%9A%80;Next.js+%7C+React+%7C+TypeScript;LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Production+Products" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abelmekonn">
-    <img src="https://komarev.com/ghpvc/?username=Abelmekonn&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Abelmekonn?label=Followers&style=for-the-badge&color=00D9FF" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%26%20SaaS%20Projects-6366F1?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:302B63,100:24243E&text=ABEL%20MEKONN&fontSize=60&fontColor=00F0FF&fontAlignY=40&desc=FULL-STACK%20AI%20ENGINEER&descAlignY=58&descSize=22&descColor=A78BFA&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-## 👋 About Me
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+building+AI-powered+SaaS...;%3E+LLMs+%2F+RAG+%2F+AI+Agents;%3E+Next.js+%2B+TypeScript+%2B+Node;%3E+turning+ideas+into+products_)
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-I'm a **Full-Stack AI Engineer** who builds modern web apps, SaaS platforms, and AI-powered products — end to end, from architecture to deployment.
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/AVAILABLE_FOR-AI_%26_SAAS_WORK-A78BFA?style=for-the-badge&labelColor=0F0C29"/>
+<img src="https://komarev.com/ghpvc/?username=Abelmekonn&label=VISITORS&color=302B63&style=for-the-badge&labelColor=0F0C29"/>
 
-```yaml
-name: Abel Mekonn
-role: Full-Stack AI Engineer
-focus: AI Integrations · SaaS · Automation
-stack: Next.js · React · TypeScript · Node.js
-currently_building: AI-powered SaaS & automation systems
-currently_learning: AI orchestration, RAG & agentic systems
-fun_fact: I turn complex ideas into simple products ⚡
-```
+<br/><br/>
 
-- 🔭 Currently building **AI-powered SaaS & automation systems**
-- 🤖 Working with **LLMs, RAG, AI Agents & AI integrations**
-- 🚀 Shipping production apps with **Next.js, React & TypeScript**
-- ⚙️ Building scalable backends with **Node.js, Supabase & PostgreSQL**
-- ☁️ Deploying with **Docker, Vercel, AWS & Google Cloud**
-- 🌱 Deepening my knowledge of **AI orchestration & agentic systems**
-- 💬 Ask me about **Next.js, React, Node.js, Supabase, APIs & AI**
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](#)
+[![Twitter](https://img.shields.io/badge/TWITTER-0F0C29?style=for-the-badge&logo=x&logoColor=00F0FF)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F0FF)](#)
+[![Email](https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F0FF)](#)
 
-<br clear="right"/>
+</div>
 
----
+<br/>
 
-## 🧠 What I Do
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
+
+<br/>
+
+<div align="center">
+
+## 🛰️ SYSTEM.PROFILE
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🤖 AI Engineering
-- LLM Integrations
-- RAG Applications
-- AI Agents & Assistants
-- AI Automation Workflows
-- Prompt Engineering
-- Knowledge-base Systems
+```yaml
+> whoami
 
-</td>
-<td width="50%" valign="top">
+identity:    Abel Mekonn
+role:        Full-Stack AI Engineer
+specialty:   SaaS Builder · AI Integration Specialist
+mission:     Turn complex ideas into simple, shipped products
 
-### 💻 Full-Stack Engineering
-- SaaS Applications
-- Web Apps & Admin Dashboards
-- Marketplaces
-- REST APIs & Auth
-- Database Architecture
-- Third-party Integrations
+focus:
+  - AI-powered SaaS & automation systems
+  - LLM integrations, RAG pipelines, AI agents
+  - Production web apps: architecture → deploy
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & APIs
-- Node.js · NestJS · Express
-- Python · FastAPI
-- PostgreSQL · Supabase · Redis
+learning:
+  - AI orchestration
+  - Agentic workflows
+  - Multi-agent systems
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### ☁️ DevOps & Deployment
-- Docker · Nginx
-- Vercel · AWS · Google Cloud
-- CI/CD · GitHub Actions
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:12px"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=3&width=100%)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+## ⚡ CORE.MODULES
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,redis&theme=dark" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,nginx,github,git&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abelmekonn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmekonn&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelmekonn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Currently Exploring
-
-```text
-Artificial Intelligence          Full-Stack Engineering       Infrastructure
-├── Large Language Models        ├── Next.js                  ├── Docker
-├── Retrieval-Augmented Gen.     ├── React                    ├── Cloud Deployment
-├── AI Agents                    ├── TypeScript                ├── CI/CD
-├── Agentic Workflows            ├── Node.js                   ├── APIs
-├── AI Orchestration             ├── PostgreSQL                └── Scalable Architecture
-└── Production AI Systems        └── Supabase
+### 🤖 `AI_ENGINEERING`
+```
+├─ LLM Integrations
+├─ RAG Applications
+├─ AI Agents & Assistants
+├─ AI Automation Workflows
+├─ Prompt Engineering
+└─ Knowledge-base Systems
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
-</p>
+### 💻 `FULL_STACK`
+```
+├─ SaaS Applications
+├─ Web Apps & Dashboards
+├─ Marketplaces
+├─ REST APIs & Auth
+├─ Database Architecture
+└─ Third-party Integrations
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ `BACKEND`
+```
+├─ Node.js · NestJS · Express
+├─ Python · FastAPI
+└─ PostgreSQL · Supabase · Redis
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ `INFRASTRUCTURE`
+```
+├─ Docker · Nginx
+├─ Vercel · AWS · GCP
+└─ CI/CD · GitHub Actions
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
+
+<br/>
+
+<div align="center">
+
+## 🧬 TECH.STACK
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-0F0C29?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/RAG-0F0C29?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-0F0C29?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/VERCEL_AI_SDK-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,redis&theme=dark"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,nginx,github,git&theme=dark"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark"/>
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=3&width=100%)
+
+<br/>
+
+<div align="center">
+
+## 📡 LIVE.METRICS
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abelmekonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F0FF&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmekonn&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F0FF&fire=A78BFA&currStreakLabel=00F0FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelmekonn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F0FF&text_color=c9d1d9"/>
+
+</div>
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
+
+<br/>
+
+<div align="center">
+
+## 🌐 CURRENTLY.COMPILING
+
+```text
+[AI]                      [WEB]                      [OPS]
+Large Language Models     Next.js                     Docker
+RAG Pipelines             React                       Cloud Deploy
+AI Agents                 TypeScript                  CI / CD
+Agentic Workflows         Node.js                      APIs
+AI Orchestration          PostgreSQL                   Scalable Arch.
+Production AI Systems     Supabase
+```
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243E,50:302B63,100:0F0C29&section=footer&text=LET'S%20BUILD%20SOMETHING&fontSize=20&fontColor=00F0FF&animation=fadeIn" width="100%"/>
