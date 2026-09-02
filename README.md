@@ -1,203 +1,68 @@
-<div align="center">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Abel Mekonn</h1>
+<h3 align="center">A passionate FullStack Developer </h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0C29,50:302B63,100:24243E&text=ABEL%20MEKONN&fontSize=60&fontColor=00F0FF&fontAlignY=40&desc=FULL-STACK%20AI%20ENGINEER&descAlignY=58&descSize=22&descColor=A78BFA&animation=fadeIn" width="100%"/>
 
-<br/>
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+building+AI-powered+SaaS...;%3E+LLMs+%2F+RAG+%2F+AI+Agents;%3E+Next.js+%2B+TypeScript+%2B+Node;%3E+turning+ideas+into+products_)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abelmekonn&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<br/>
+<p align="left"> <a href="https://twitter.com/AbelMekonn" target="blank"><img src="https://img.shields.io/twitter/follow/AbelMekonn?logo=twitter&style=for-the-badge" alt="Abelmekonn"  </p>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/AVAILABLE_FOR-AI_%26_SAAS_WORK-A78BFA?style=for-the-badge&labelColor=0F0C29"/>
-<img src="https://komarev.com/ghpvc/?username=Abelmekonn&label=VISITORS&color=302B63&style=for-the-badge&labelColor=0F0C29"/>
+- 🔭 I’m currently working on **Web Devlopment Web scraping**
 
-<br/><br/>
+- 🌱 I’m currently learning **DevOps,ML**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](#)
-[![Twitter](https://img.shields.io/badge/TWITTER-0F0C29?style=for-the-badge&logo=x&logoColor=00F0FF)](#)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F0FF)](#)
-[![Email](https://img.shields.io/badge/EMAIL-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F0FF)](#)
+- 💬 Ask me about **Python, Automation ,Frontend, Javascript , MEARN**
 
-</div>
+- 📫 How to reach me **Abelmekonn9@gmail.com**
 
-<br/>
+- ⚡ Fun fact **I am Funny**
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-<br/>
+<a href="https://www.linkedin.com/in/abel-mekonn-pydev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/Abel.mekonn.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+</p>
+# My Developer Portfolio
 
-<div align="center">
+## Languages and Tools
 
-## 🛰️ SYSTEM.PROFILE
+### Languages
 
-</div>
+C++ | Java | JavaScript | Python | PHP |
+|----------|----------|----------|----------|----------|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org) | [<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>](https://www.php.net/) |
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+### Front-end Frameworks
 
-```yaml
-> whoami
+| Angular | Bootstrap | CSS3 | HTML5 | React | React Native | Redux | jQuery | Tailwind CSS |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) | [<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>](https://reactnative.dev/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>](https://jquery.com/) | [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) |
 
-identity:    Abel Mekonn
-role:        Full-Stack AI Engineer
-specialty:   SaaS Builder · AI Integration Specialist
-mission:     Turn complex ideas into simple, shipped products
+### Back-end Frameworks
 
-focus:
-  - AI-powered SaaS & automation systems
-  - LLM integrations, RAG pipelines, AI agents
-  - Production web apps: architecture → deploy
+| Express | Next.js | Node.js | Django | Flask |
+|----------|----------|----------|----------|----------|
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) | [<img src="https://skillicons.dev/icons?i=django" alt="django" />](https://www.djangoproject.com/) | [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/) |
 
-learning:
-  - AI orchestration
-  - Agentic workflows
-  - Multi-agent systems
-```
+### Databases and Data Manipulation
 
-</td>
-<td width="40%" valign="top" align="center">
+| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
+|----------|----------|----------|----------|----------|----------|
+| [<img src="anaconda-original-wordmark.svg" alt="Conda" title="Conda" width="55" height="55"/>](https://anaconda.org) | [<img src="jupyter-original-wordmark.svg" alt="Jupiter" title="Jupiter" width="55" height="55"/>](https://jupyter.org/) | [<img src="apachespark-original-wordmark.svg" alt="Spark" title="Spark" width="55" height="55"/>](https://spark.apache.org/) | [<img src="mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55"/>](https://www.mysql.com/) | [<img src="postgresql-original-wordmark.svg" alt="Postgres" title="Postgres" width="55" height="55"/>](https://www.postgresql.org/) | [<img src="sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55"/>](https://www.sqlite.org/) |
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius:12px"/>
+### Developer Tools
 
-</td>
-</tr>
-</table>
+| Git | Figma | Google Cloud | GraphQL | Adobe Illustrator | Postman | TensorFlow | OpenCV |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/) | [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/) | [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>](https://cloud.google.com) | [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org) | [<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html) | [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) | [<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>](https://www.tensorflow.org) | [<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>](https://opencv.org/) |
 
-<br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=3&width=100%)
 
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abelmekonn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<div align="center">
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abelmekonn&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-## ⚡ CORE.MODULES
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 `AI_ENGINEERING`
-```
-├─ LLM Integrations
-├─ RAG Applications
-├─ AI Agents & Assistants
-├─ AI Automation Workflows
-├─ Prompt Engineering
-└─ Knowledge-base Systems
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 `FULL_STACK`
-```
-├─ SaaS Applications
-├─ Web Apps & Dashboards
-├─ Marketplaces
-├─ REST APIs & Auth
-├─ Database Architecture
-└─ Third-party Integrations
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ `BACKEND`
-```
-├─ Node.js · NestJS · Express
-├─ Python · FastAPI
-└─ PostgreSQL · Supabase · Redis
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ `INFRASTRUCTURE`
-```
-├─ Docker · Nginx
-├─ Vercel · AWS · GCP
-└─ CI/CD · GitHub Actions
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
-
-<br/>
-
-<div align="center">
-
-## 🧬 TECH.STACK
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark"/>
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OpenAI-0F0C29?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/RAG-0F0C29?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/AI_AGENTS-0F0C29?style=for-the-badge&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/VERCEL_AI_SDK-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F0FF"/>
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,redis&theme=dark"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,nginx,github,git&theme=dark"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=figma,postman,vscode&theme=dark"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=3&width=100%)
-
-<br/>
-
-<div align="center">
-
-## 📡 LIVE.METRICS
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abelmekonn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F0FF&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmekonn&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F0FF&fire=A78BFA&currStreakLabel=00F0FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelmekonn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F0FF&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&width=100%)
-
-<br/>
-
-<div align="center">
-
-## 🌐 CURRENTLY.COMPILING
-
-```text
-[AI]                      [WEB]                      [OPS]
-Large Language Models     Next.js                     Docker
-RAG Pipelines             React                       Cloud Deploy
-AI Agents                 TypeScript                  CI / CD
-Agentic Workflows         Node.js                      APIs
-AI Orchestration          PostgreSQL                   Scalable Arch.
-Production AI Systems     Supabase
-```
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243E,50:302B63,100:0F0C29&section=footer&text=LET'S%20BUILD%20SOMETHING&fontSize=20&fontColor=00F0FF&animation=fadeIn" width="100%"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmekonn&&theme=tokyonight" alt="AbelMekonn" /></p>
