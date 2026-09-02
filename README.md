@@ -1,190 +1,200 @@
-# 👋 Hey, I'm Abel Mekonn
+<!-- ===================== HEADER ===================== -->
 
-### Full-Stack AI Engineer · SaaS Builder · AI Integration Specialist
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" />
+</p>
 
-I build **production-ready web applications, SaaS platforms, and AI-powered products** from idea to deployment.
+<h1 align="center">
+  Hi 👋, I'm Abel Mekonn
+</h1>
 
-My focus is on combining modern full-stack development with AI to build systems that are **scalable, maintainable, and actually useful in production**.
+<h3 align="center">
+  Full-Stack AI Engineer • SaaS Builder • AI Integration Specialist
+</h3>
 
-* 🚀 Building **AI-powered SaaS products & automation systems**
-* 🤖 Working with **LLMs, RAG, AI agents & AI integrations**
-* 💻 Strong focus on **Next.js, React, TypeScript & Node.js**
-* 🗄️ Building reliable backends with **PostgreSQL, Supabase & APIs**
-* ☁️ Deploying production applications with **Docker, Vercel & Google Cloud**
-* 🧩 Experienced with **third-party API integrations and automation**
-* 🔨 Currently exploring deeper **AI orchestration, RAG & agentic systems**
+<p align="center">
+  <a href="https://github.com/Abelmekonn">
+    <img src="https://komarev.com/ghpvc/?username=Abelmekonn&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Building+AI-Powered+SaaS;Next.js+%7C+React+%7C+TypeScript;AI+Integrations+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Production+Products" />
+</p>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I'm a **Full-Stack AI Engineer** focused on building modern web applications, SaaS platforms, and AI-powered products.
+
+I enjoy working across the entire product lifecycle — from architecture and development to AI integration, deployment, and optimization.
+
+- 🔭 Currently building **AI-powered SaaS & automation systems**
+- 🤖 Working with **LLMs, RAG, AI Agents & AI integrations**
+- 🚀 Building production applications with **Next.js, React & TypeScript**
+- ⚙️ Developing scalable backends with **Node.js, Supabase & PostgreSQL**
+- ☁️ Working with **Docker, Vercel, AWS & Google Cloud**
+- 🌱 Currently deepening my knowledge of **AI orchestration, RAG & agentic systems**
+- 💬 Ask me about **Next.js, React, TypeScript, Node.js, Supabase, APIs & AI**
+- ⚡ I enjoy turning **complex ideas into simple products**
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
 
 ## 🧠 What I Do
 
-```text
-AI Applications
-├── LLM Integrations
-├── RAG Systems
-├── AI Agents
-├── AI Assistants
-└── AI-powered Automation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Full-Stack Development
-├── SaaS Applications
-├── Dashboards & Admin Panels
-├── Marketplaces
-├── Web Applications
-└── API-driven Platforms
+### 🤖 AI Engineering
 
-Backend & Infrastructure
-├── REST APIs
-├── PostgreSQL
-├── Supabase
-├── Authentication & Authorization
-├── Docker
-└── Cloud Deployment
-```
+- LLM Integrations
+- RAG Applications
+- AI Agents
+- AI Assistants
+- AI Automation
+- Prompt Engineering
+- AI-powered workflows
+- Knowledge-base systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Full-Stack Engineering
+
+- SaaS Applications
+- Web Applications
+- Admin Dashboards
+- Marketplaces
+- REST APIs
+- Authentication
+- Database Architecture
+- Third-party Integrations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+
+- Node.js
+- NestJS
+- Express
+- Python
+- FastAPI
+- PostgreSQL
+- Supabase
+- Redis
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Deployment
+
+- Docker
+- Vercel
+- AWS
+- Google Cloud
+- Nginx
+- CI/CD
+- GitHub Actions
+- Production Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🚀 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
 </p>
 
-**Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS**
-
-### Backend
+### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi" />
 </p>
 
-**Node.js · Express · NestJS · Python · FastAPI · REST APIs**
-
-### AI & LLM
+### 🤖 AI & LLM
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,openai" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**OpenAI · LLM APIs · RAG · AI Agents · Vercel AI SDK · AI Automation · Prompt Engineering**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0A0A0A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,redis" />
 </p>
 
-**PostgreSQL · Supabase · MySQL · MongoDB · Redis**
-
-### DevOps & Cloud
+### ☁️ Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,nginx,github,git" />
 </p>
 
-**Docker · AWS · Google Cloud · Vercel · Nginx · Git · GitHub · CI/CD**
-
-### Tools & APIs
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
-</p>
-
-**Git · GitHub · Figma · Postman · Third-party API Integrations**
-
----
-
-# 🚀 Featured Projects
-
-### ⚖️ Nora Legal — AI Legal Assistant
-
-A production AI-powered platform built for legal/notary workflows.
-
-**Stack:**
-`React · TypeScript · Supabase · AI · Google Cloud Run · Edge Functions · Vercel`
-
-Key work included:
-
-* AI-powered document and email assistance
-* Microsoft Word Add-in integration
-* Outlook email assistant
-* Knowledge-base integration
-* Secure authentication and data access
-* Cloud-based AI processing
-* Production deployment
-
----
-
-### 🛒 MillworkIQ — B2B Marketplace
-
-A multi-vendor marketplace designed specifically for the millwork industry.
-
-**Stack:**
-`Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS`
-
-Features include:
-
-* Multi-vendor architecture
-* Product catalog
-* Product configuration
-* Vendor management
-* Advanced pricing models
-* Multi-vendor checkout
-* Admin workflows
-
----
-
-### 🌐 Headless WordPress + Next.js
-
-Modernizing traditional WordPress websites using a headless architecture.
-
-**Stack:**
-`Next.js · WordPress · REST/GraphQL APIs · TypeScript`
-
-Focused on:
-
-* High-performance frontend
-* SEO optimization
-* Modern UI
-* API-driven architecture
-* Scalable content management
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abelmekonn&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelmekonn&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abelmekonn&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
 
 ---
 
-# 🌎 Let's Connect
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abel-mekonn-pydev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  <a href="https://github.com/Abelmekonn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-</p>
+## 🚀 Currently Exploring
 
-📩 **Email:** [abelmekonn9@gmail.com](mailto:abelmekonn9@gmail.com)
+```text
+Artificial Intelligence
+│
+├── Large Language Models
+├── Retrieval-Augmented Generation
+├── AI Agents
+├── Agentic Workflows
+├── AI Orchestration
+└── Production AI Systems
 
----
+Full-Stack Engineering
+│
+├── Next.js
+├── React
+├── TypeScript
+├── Node.js
+├── PostgreSQL
+└── Supabase
 
-<p align="center">
-  <b>Building products. Integrating AI. Solving real problems.</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my work interesting, consider following me!
-</p>
+Infrastructure
+│
+├── Docker
+├── Cloud Deployment
+├── CI/CD
+├── APIs
+└── Scalable Architecture
