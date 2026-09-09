@@ -17,17 +17,32 @@
 <tr>
 <td width="33%" valign="top">
 <h3>Focus</h3>
-<p><code>TypeScript</code> · <code>Next.js</code> · <code>React</code> · <code>AI</code></p>
+<p>
+<code>TypeScript</code> ·
+<code>Next.js</code> ·
+<code>React</code> ·
+<code>AI Engineering</code>
+</p>
 </td>
 
 <td width="33%" valign="top">
 <h3>Engineering</h3>
-<p><code>Full-Stack</code> · <code>SaaS</code> · <code>APIs</code> · <code>Cloud</code></p>
+<p>
+<code>Full-Stack</code> ·
+<code>SaaS</code> ·
+<code>APIs</code> ·
+<code>Cloud</code>
+</p>
 </td>
 
 <td width="33%" valign="top">
 <h3>AI</h3>
-<p><code>LLMs</code> · <code>RAG</code> · <code>Agents</code> · <code>MCP</code></p>
+<p>
+<code>LLMs</code> ·
+<code>RAG</code> ·
+<code>Agents</code> ·
+<code>MCP</code>
+</p>
 </td>
 </tr>
 </table>
@@ -36,92 +51,107 @@
 Full-Stack AI Engineer building production SaaS products with TypeScript, Next.js, React, FastAPI, PostgreSQL, and modern AI/LLM integrations.
 </p>
 
-<h2>Open-source toolbox</h2>
+<h2>Tech Stack</h2>
 
 <p><code>abelmekonn@github ~ $ toolbox --list</code></p>
 
 <table width="100%">
 <tr>
 
-<td width="25%" valign="top">
+<td valign="top" width="33%">
+
 <h3>Frontend</h3>
+
 <p>
-<code>TypeScript</code><br />
-<code>JavaScript</code><br />
-<code>React</code><br />
-<code>Next.js</code><br />
+<code>TypeScript</code> ·
+<code>React</code> ·
+<code>Next.js</code> ·
+<code>JavaScript</code> ·
 <code>Tailwind CSS</code>
 </p>
+
 </td>
 
-<td width="25%" valign="top">
+<td valign="top" width="33%">
+
 <h3>Backend</h3>
+
 <p>
-<code>Node.js</code><br />
-<code>Express</code><br />
-<code>NestJS</code><br />
-<code>FastAPI</code><br />
-<code>REST</code> · <code>GraphQL</code>
-</p>
-</td>
-
-<td width="25%" valign="top">
-<h3>AI Engineering</h3>
-<p>
-<code>OpenAI</code><br />
-<code>Claude</code><br />
-<code>Gemini</code><br />
-<code>RAG</code><br />
-<code>AI Agents</code><br />
-<code>Tool Calling</code>
-</p>
-</td>
-
-<td width="25%" valign="top">
-<h3>Data & Cloud</h3>
-<p>
-<code>PostgreSQL</code><br />
-<code>Supabase</code><br />
-<code>Redis</code><br />
-<code>Docker</code><br />
-<code>AWS</code><br />
-<code>GitHub Actions</code>
-</p>
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-<code>TypeScript</code> ·
-<code>Next.js</code> ·
-<code>React</code> ·
 <code>Node.js</code> ·
+<code>Express</code> ·
+<code>NestJS</code> ·
 <code>FastAPI</code> ·
-<code>PostgreSQL</code> ·
-<code>Supabase</code> ·
-<code>Docker</code>
+<code>REST</code> ·
+<code>GraphQL</code>
 </p>
 
-<p align="center">
+</td>
+
+<td valign="top" width="33%">
+
+<h3>AI Engineering</h3>
+
+<p>
 <code>OpenAI</code> ·
 <code>Claude</code> ·
 <code>Gemini</code> ·
 <code>RAG</code> ·
 <code>AI Agents</code> ·
-<code>AI Orchestration</code> ·
 <code>Tool Calling</code> ·
-<code>MCP</code> ·
-<code>Structured Outputs</code>
+<code>MCP</code>
 </p>
 
-<p align="center">
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+<h3>Data & Cloud</h3>
+
+<p>
+<code>PostgreSQL</code> ·
+<code>Supabase</code> ·
+<code>Redis</code> ·
+<code>AWS</code> ·
+<code>Docker</code>
+</p>
+
+</td>
+
+<td valign="top">
+
+<h3>AI & Product</h3>
+
+<p>
+<code>AI Orchestration</code> ·
+<code>Structured Outputs</code> ·
+<code>LLM Integrations</code> ·
+<code>SaaS</code> ·
+<code>AI Workflows</code>
+</p>
+
+</td>
+
+<td valign="top">
+
+<h3>Development</h3>
+
+<p>
 <code>Git</code> ·
 <code>GitHub</code> ·
+<code>GitHub Actions</code> ·
 <code>Claude Code</code> ·
 <code>Cursor</code> ·
 <code>Codex</code>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 <h2>Repositories worth exploring</h2>
 
@@ -136,6 +166,7 @@ Full-Stack AI Engineer building production SaaS products with TypeScript, Next.j
 <tr>
 
 <td width="50%" valign="top">
+
 <h3>
 <a href="https://github.com/Abelmekonn/result-summary">result-summary</a>
 </h3>
@@ -147,9 +178,11 @@ A web application focused on presenting structured results through a clean and a
 <p>
 <sub>TypeScript · React</sub>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
+
 <h3>
 <a href="https://github.com/Abelmekonn/email-verification-app">email-verification-app</a>
 </h3>
@@ -161,6 +194,7 @@ A Django-based application for handling email verification and user validation w
 <p>
 <sub>Python · Django</sub>
 </p>
+
 </td>
 
 </tr>
